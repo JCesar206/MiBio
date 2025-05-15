@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy JCesar206
 
 Bienvenido a mi perfil de GitHub. Soy desarrollador web y disfruto creando proyectos usando diferentes tecnologías.
+Actualmente tengo 39 años, licenciado en informática administrativa. :mortar_board:
 
 ## 🚀 Sobre mí
 
