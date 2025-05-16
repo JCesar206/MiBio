@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Julio Cesar Yañez M (JCesar206) :octocat:
+# ¡Hola! 👋 Soy Julio César Yañez M (JCesar206) :octocat:
 
 Bienvenido a mi perfil de GitHub. Soy desarrollador web y disfruto creando proyectos usando diferentes tecnologías.
 Actualmente tengo 39 años, licenciado en informática administrativa. :mortar_board:
