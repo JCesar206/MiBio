@@ -1,22 +1,22 @@
 # ¡Hola! 👋 Soy Julio César Yañez M (JCesar206) :octocat:
 
-Bienvenido a mi perfil de GitHub. Soy desarrollador web y disfruto creando proyectos usando diferentes tecnologías.
-Actualmente tengo 40 años, licenciado en informática administrativa. :mortar_board:
+Hola soy Julio César Yañez M. Soy Lic. en Informática Administrativa con 40 años.
+Me apasionan las tecnologías asi mismo el aprender día con día algo nuevo.
+Me gusta compartir mis conocimientos y experencia.
 
-## 🚀 Sobre mí
+Soy un entusiasta del desarrollo web con experiencia en varios lenguajes y tecnologías.
+A continuación puedes ver los lenguajes que he aprendido:
 
-- 💡 Me apasiona el desarrollo web y la tecnología.
-- ✨ Siempre estoy aprendiendo algo nuevo.
-- 🎯 Actualmente trabajando en proyectos personales y colaborativos.
+## Lenguajes y Tecnologías
 
-## 🛠️ Lenguajes y tecnologías que manejo
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+</div>
+---
 ## 📫 ¿Cómo contactarme?
 
 - Email: jcesar206@hotmail.com
